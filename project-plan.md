@@ -1,4 +1,4 @@
-# This is the plan for my practice project.
+This is the plan for my practice project.
 
 :)
 :)
